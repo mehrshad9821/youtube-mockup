@@ -1,3 +1,5 @@
+A youtube mockup using ReactJS framework and youtube API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
